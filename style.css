@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 100vh;
+    background-image: url('./store-gb74a8bdad_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.img-fluid{
+    width: 100%;
+}
+footer{
+    background-color: #131313;
+    color: white;
+}
